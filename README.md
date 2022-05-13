@@ -1,6 +1,6 @@
 # Clay-PaymentChallenge
 
-SwiftUI Challenge i did for some challenge proposed, unfortunately im not neither selected for this position nor im updated about reason of it.
+SwiftUI Challenge i did for some challenge proposed, unfortunately im neither selected for this position nor im updated about reason of it.
 
 'Unfortunately we are not able to give evaluation at the moment.' :))
 
