@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  paywall_challenge_swiftui
+
+  Created by mehmet karanlık on 4.05.2022.
+  
+*/
+
+
+// Paywall String Keys
+
+"alreadyPurchasedKey" = "Already Purchased?";
+"continueKey" = "Continue";
+"freeTrialSuggestionKey" = "Start 7 Days Free Trial";
+"notSureYetKey" ="Not sure yet?";
+"enableFreeTrialKey" = "Enable free trial";
+"enabledFreeTrialKey" = "Free Trial Enabled";
+"cancelKey" = "Cancel Anytime ";
+"cancelFollowUpKey" = "We'll still love you.";
+"fullAccesKey" = "Get Full Access";
+"firstPriceKey" = "$2,99/Month";
+"secondPriceKey" = "7 days for free, then $2,99/Month";
+
+
